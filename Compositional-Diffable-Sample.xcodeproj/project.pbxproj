@@ -80,7 +80,7 @@
 		8B9494292AB4AF65007B4DD5 /* Compositional-Diffable-Sample */ = {
 			isa = PBXGroup;
 			children = (
-				8B9494512AB4BAC1007B4DD5 /* Modules */,
+				8B9494512AB4BAC1007B4DD5 /* ViewControllers */,
 				8BFEDD3C2AB5ADAD00DD7A32 /* Protocols */,
 				8BFEDD342AB5ACAD00DD7A32 /* Extensions */,
 				8B9494472AB4B81D007B4DD5 /* Model */,
@@ -108,13 +108,13 @@
 			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		8B9494512AB4BAC1007B4DD5 /* Modules */ = {
+		8B9494512AB4BAC1007B4DD5 /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
 				8BFEDD2E2AB5AB9000DD7A32 /* CompositionalCollectionViewViewController.swift */,
 				8B9494542AB4BEF7007B4DD5 /* Home */,
 			);
-			path = Modules;
+			path = ViewControllers;
 			sourceTree = "<group>";
 		};
 		8B9494542AB4BEF7007B4DD5 /* Home */ = {
